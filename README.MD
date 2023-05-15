@@ -40,7 +40,7 @@ docker run --name tesseract_api -p 5000:5000/tcp tesseract_api:latest
 
 
 ### Enviroment variables
-- `N_PROCS=<n_cpus - 1>` override number of concurrent tesseract workers.
+- `N_PROCS=<n_cpus - 1>` override the number of concurrent tesseract workers.
 - `QUEUE_SIZE=1024` limit the number of scheduled tasks.
 
 
