@@ -1,5 +1,5 @@
-# tesseract-api
-This project exposes tesseract cmdline program as an API. Images can be processed both syncronously in the main thread and asyncronously depending on the endpoints used.
+# mercari-task
+Successful take home assignment for ML engineer position at Mercari. This project exposes tesseract cmdline program as an API. Images can be processed both syncronously in the main thread and asyncronously depending on the endpoints used.
 
 
 ### Endpoints
